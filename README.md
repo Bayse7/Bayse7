@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bayse7
 - 👀 I’m interested in computer science and coding
 - 🌱 I’m currently learning cisco networking and securty courses
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on networking projects
 - 📫 How to reach me baysebacha7@gmail.com
 
 <!---
